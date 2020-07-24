@@ -1,21 +1,28 @@
- {
-   "context": "client",
-   "identifier": "com.pa.lula-mae.milkyway-skybox",
-   "display_name": "Milkyway Skybox",
-   "description": "System is located in the center of the Milkyway Galaxy",
-   "author": "Lula Mae",
-   "version": "1.2.0",
-   "build": "114759",
-   "date": "2020-07-18",
-   "signature": "not yet implemented",
-   "forum": "https://forums.uberent.com/threads/milkyway-skybox.72686/",
-   "priority": 100,
-   "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/milky-way-galaxy-icon.jpg",
-   "category": 
-[
-"skybox",
-"ui",
-"classic",
-"titans"
-]
- }
+{
+  "context": "client",
+  "identifier": "com.pa.lula-mae.milkyway-skybox",
+  "display_name": "Milkyway Skybox",
+  "description": "System is located in the center of the Milkyway Galaxy",
+  "author": "Lula Mae",
+  "version": "2.0.0",
+  "build": "114776",
+  "date": "2020-07-23",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/milkyway-skybox.72686/",
+  "priority": 100,
+  "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/milky-way-galaxy-icon.jpg",
+  "category":
+  [
+    "skybox",
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "scenes":
+  {
+      "settings":
+      [
+          "coui://ui/mods/com.pa.lulamae.milkyway-skybox/settings.js"
+      ]
+  }
+}
